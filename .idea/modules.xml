@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pr21-23.iml" filepath="$PROJECT_DIR$/pr21-23.iml" />
       <module fileurl="file://$PROJECT_DIR$/pr22/pr22.iml" filepath="$PROJECT_DIR$/pr22/pr22.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pr23/pr23.iml" filepath="$PROJECT_DIR$/pr23/pr23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pr23/pr23-1.iml" filepath="$PROJECT_DIR$/pr23/pr23-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pr23-2/pr23-2.iml" filepath="$PROJECT_DIR$/pr23-2/pr23-2.iml" />
     </modules>
   </component>
 </project>
